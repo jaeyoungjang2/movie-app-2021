@@ -11,6 +11,7 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
@@ -38,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/jaeyoungjang2/movie-app-2021/"
+  "homepage": "https://jaeyoungjang2.github.io/movie-app-2021/"
 }
